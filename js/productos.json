@@ -1,0 +1,173 @@
+[
+    {
+        "id": "Campera-Francia",
+        "titulo": "Campera Francia",
+        "imagen": "./img/camperas/01.jpeg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "Camperas"
+        },
+        "precio": 8500
+    },
+    {
+        "id": "Campera-Argentina",
+        "titulo": "Campera Argentina",
+        "imagen": "./img/camperas/02.jpeg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "Camperas"
+        },
+        "precio": 8500
+    },
+    {
+        "id": "Campera-Boca",
+        "titulo": "Campera Boca",
+        "imagen": "./img/camperas/03.jpeg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "Camperas"
+        },
+        "precio": 8500
+    },
+    {
+        "id": "Campera-Barcelona",
+        "titulo": "Campera Barcelona",
+        "imagen": "./img/camperas/04.jpeg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "Camperas"
+        },
+        "precio": 8500
+    },
+    {
+        "id": "Campera-River",
+        "titulo": "Campera River",
+        "imagen": "./img/camperas/05.jpeg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "Camperas"
+        },
+        "precio": 8500
+    },
+    {
+        "id": "camiseta-Boca",
+        "titulo": "Camiseta Boca",
+        "imagen": "./img/camisetas/01.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "camiseta-Barcelona",
+        "titulo": "Camiseta Barcelona",
+        "imagen": "./img/camisetas/02.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "camiseta-River",
+        "titulo": "Camiseta River",
+        "imagen": "./img/camisetas/03.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "camiseta-Argentina",
+        "titulo": "Camiseta Argentina",
+        "imagen": "./img/camisetas/04.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "camiseta-Madrid",
+        "titulo": "Camiseta Real Madrid",
+        "imagen": "./img/camisetas/05.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "camiseta-United",
+        "titulo": "Camiseta Manchester United",
+        "imagen": "./img/camisetas/06.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "camiseta-Liverpool",
+        "titulo": "Camiseta Liverpool",
+        "imagen": "./img/camisetas/07.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 7000
+    },
+    
+    {
+        "id": "pantalon-Boca",
+        "titulo": "Pantalón Boca",
+        "imagen": "./img/pantalones/01.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pantalon-Shalke",
+        "titulo": "Pantalón Shalke",
+        "imagen": "./img/pantalones/02.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pantalon-Cska",
+        "titulo": "Pantalón Cska",
+        "imagen": "./img/pantalones/03.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pantalon-Velez",
+        "titulo": "Pantalón Velez",
+        "imagen": "./img/pantalones/04.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pantalon-Betis",
+        "titulo": "Pantalón Betis",
+        "imagen": "./img/pantalones/05.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3500
+    }
+]
